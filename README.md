@@ -1,4 +1,4 @@
-# UMich EECS Computer Programming for Scientists and Engineers
+# UMich EECS Computer Programming for Scientists and Engineers (C++)
 Projects of 2019 Fall Semester
 ### Project 1
 Mini-Project
