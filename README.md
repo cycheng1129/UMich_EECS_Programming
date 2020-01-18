@@ -1,4 +1,4 @@
-# UMich EECS402 Computer Programming for Scientists and Engineers
+# UMich EECS Computer Programming for Scientists and Engineers
 Projects of 2019 Fall Semester
 ### Project 1
 Mini-Project
